@@ -1,5 +1,7 @@
 ### Hola, 👋
-### I'm Praneeth :raised_hand_with_fingers_splayed:
+## Hi there, I'm [Praneeth](https://kishan0725.pythonanywhere.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+
+<img align="right" alt='Coder GIF' height=250 width=300 src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" />
 
 ### About me :writing_hand:
 - 🔭 Coding lover ...
@@ -10,6 +12,4 @@
 - 📫 How to reach me: [facebook](https://www.facebook.com/praneethkumar88/...)
 - ⚡ Fun fact: Dancer,Painter,Badminton Player...
 
-__Connect me__ through _linkedln_ :-[Praneeth](https://www.linkedin.com/in/praneeth-kumar-84a15317b)
-
-![66833e07d6fb9eb5d724e47d0c814285](https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif)
+__Connect me__ through 'linkedln' :-[Praneeth](https://www.linkedin.com/in/praneeth-kumar-84a15317b)
