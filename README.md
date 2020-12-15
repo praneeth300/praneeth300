@@ -1,5 +1,5 @@
 ### Hola, 👋
-## Hi there, I'm [Praneeth](https://kishan0725.pythonanywhere.com/)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm __Praneeth__ <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <img align="right" alt='Coder GIF' height=250 width=300 src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" />
 
