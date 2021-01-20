@@ -10,7 +10,7 @@
 - 💬 Ask me about Everything You want ...
 - ⚡ Fun fact: Dancer,Painter,Badminton Player...
 
-__Connect me__ through __Linkedln__  :-[Praneeth](https://www.linkedin.com/in/praneeth-kumar-84a15317b)
+__Connect me__ through __Linkedln__  :-[Praneeth](https://www.linkedin.com/in/praneeth-kumar-84a15317b)\
 __Check out my __Data science articles__ at :-[inblog](https://inblog.in/@PraneethKumar)
 
 
