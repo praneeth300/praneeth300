@@ -29,3 +29,6 @@ Check out my __Data science articles__ at :-[inblog](https://inblog.in/@Praneeth
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=praneeth300&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=praneeth300&color=green)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
