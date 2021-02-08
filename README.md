@@ -1,4 +1,6 @@
-## Hi there, I'm __Praneeth__ <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+<h1 align="center" style="color: yellow">Hi there, I'm <strong>Praneeth</strong> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+  </h1>
+<h3 align="center" >Mechanical Engineer</h3>
 
 <img align="right" alt='Coder GIF' height=250 width=300 src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" />
 
@@ -13,6 +15,7 @@
 __Connect me__ through __Linkedln__  :-[Praneeth](https://www.linkedin.com/in/praneeth-kumar-84a15317b)\
 Check out my __Data science articles__ at :-[inblog](https://inblog.in/@PraneethKumar)
 
+__Check out My Combnation of all my projects__:[Click here](https://mighty-springs-38077.herokuapp.com/)
 
 ### GitHub Stats
 
