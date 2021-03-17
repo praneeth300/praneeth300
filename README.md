@@ -11,6 +11,13 @@
 - :point_right: Also I'm a Mechanical Engineer ...
 - 💬 Ask me about Everything You want ...
 - ⚡ Fun fact: Dancer,Painter,Badminton Player...
+<br>
+Experience in
+<img src="https://user-images.githubusercontent.com/64009514/111451469-791fa480-8737-11eb-84d7-aa40350c46c2.png" width=50 height=50)
+<img src="https://user-images.githubusercontent.com/64009514/111451857-e4697680-8737-11eb-9865-1d34c320fa70.png" width=50 height=50)
+<img src="https://user-images.githubusercontent.com/64009514/111451924-f64b1980-8737-11eb-902f-e6b56ab7d799.jpeg" width=50 height=50)
+<img src="https://user-images.githubusercontent.com/64009514/111451992-0662f900-8738-11eb-8b9c-328fee4d70ce.png" width=50 height=50)
+</br>
 
 __Connect me__ through __Linkedln__  :-[Praneeth](https://www.linkedin.com/in/praneeth-kumar-84a15317b)\
 Check out my __Data science articles__ at :-[inblog](https://inblog.in/@PraneethKumar)
