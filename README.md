@@ -19,11 +19,11 @@ Check out my __Data science articles__ at :-[inblog](https://inblog.in/@Praneeth
 __Check out My Combnation of all my projects__:[Click here](https://mighty-springs-38077.herokuapp.com/)
 
 ### Intrests
-⚡ Chatbots
-⚡ Machine learning
-⚡ Deep learning
-⚡ AI
-⚡ Pyspark
+⚡ Chatbots <br>
+⚡ Machine learning <br>
+⚡ Deep learning <br>
+⚡ AI <br>
+⚡ Pyspark<br>
 ⚡ Python
 
 ### Top Languages
