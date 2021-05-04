@@ -18,13 +18,13 @@ Check out my __Data science articles__ at :-[inblog](https://inblog.in/@Praneeth
 
 __Check out My Combnation of all my projects__:[Click here](https://mighty-springs-38077.herokuapp.com/)
 
-### GitHub Stats
-
-<p align="center">
-  <a href = "https://github.com/praneeth300">
-<img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api?username=praneeth300&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
+### Intrests
+⚡ Chatbots
+⚡ Machine learning
+⚡ Deep learning
+⚡ AI
+⚡ Pyspark
+⚡ Python
 
 ### Top Languages
 
