@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Dancer,Painter,Badminton Player...
 
 __Connect me__ through __Linkedln__  :-[Praneeth](https://www.linkedin.com/in/praneeth-kumar-84a15317b)\
-Check out my __Data science articles__ at :-[inblog](https://inblog.in/@PraneethKumar)
+Check out my __Data science articles__ at :-[inblog](https://inblog.in/@PraneethKumar)<br>
 __Check out My Combnation of all my projects__:[Click here](https://mighty-springs-38077.herokuapp.com/)
 
 ### Intrests
