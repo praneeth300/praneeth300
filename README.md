@@ -14,8 +14,6 @@
 
 __Connect me__ through __Linkedln__  :-[Praneeth](https://www.linkedin.com/in/praneeth-kumar-84a15317b)\
 Check out my __Data science articles__ at :-[inblog](https://inblog.in/@PraneethKumar)
-#### Download My resume [here](https://drive.google.com/file/d/13LaWehtZ351itXeOKEmYuTQqnz79cCpx/view?usp=drivesdk)
-
 __Check out My Combnation of all my projects__:[Click here](https://mighty-springs-38077.herokuapp.com/)
 
 ### Intrests
