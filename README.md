@@ -7,7 +7,7 @@
 ### About me :writing_hand:
 - 🔭 Data Science Enthusiasist ...
 - 🌱 Love to Work on ML,DL,NLP ...
-- :man_scientist: Data analyst working professional.
+- :man_scientist: Data scientist working professional.
 - :point_right: Also I'm a Mechanical Engineer ...
 - 💬 Ask me about Everything You want ...
 - ⚡ Fun fact: Dancer,Painter,Badminton Player...
@@ -21,7 +21,7 @@ __Check out My Combnation of all my projects__:[Click here](https://mighty-sprin
 ⚡ Machine learning <br>
 ⚡ Deep learning <br>
 ⚡ AI <br>
-⚡ Pyspark<br>
+⚡ SQL<br>
 ⚡ Python
 
 </div>
