@@ -1,4 +1,4 @@
-<h1 align="center" style="color: yellow">Hi there, I'm <strong>Praneeth</strong> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+<h1 align="center" style="color: yellow"> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> Hi there, I'm <strong>Praneeth</strong> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
   </h1>
 <h3 align="center" >Data Scientist</h3>
 
@@ -16,13 +16,68 @@ __Connect me__ through __Linkedln__  :-[Praneeth](https://www.linkedin.com/in/pr
 Check out my __Data science articles__ at :-[inblog](https://inblog.in/@PraneethKumar)<br>
 __Check out My Combnation of all my projects__:[Click here](https://mighty-springs-38077.herokuapp.com/)
 
-### Intrests
-⚡ Chatbots <br>
-⚡ Machine learning <br>
-⚡ Deep learning <br>
-⚡ AI <br>
-⚡ SQL<br>
-⚡ Python
+### Connect me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/praneeth88/"><img alt="Linkdln" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-               badge&logo=linkedin&logoColor=white"/></a>
+    &emsp;
+</p>
+  
+
+## 🛠️ My Skills
+
+### 👉 Programming & query languages
+
+<p align="left"> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="Python" src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?logo=Python&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.sql.com/">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-%23777BB4.svg?logo=SQL&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://www.streamlit.net/">
+    <img alt="streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/>
+  </a>
+</p>
+
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.postgresql.com"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23327FC7.svg?style=flat&llogo=postgresql&logoColor=white"></a>
+ </p>
+
+ ### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
+  &emsp;
+  <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+</p>
+
+<br/>
 
 </div>
 
@@ -39,21 +94,3 @@ __Check out My Combnation of all my projects__:[Click here](https://mighty-sprin
   <img src="https://github-readme-stats-aj8vj7k8x.vercel.app/api/top-langs/?username=praneeth300&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
-
-__Tools__
-<br>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=50 height=50>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" width=50 height=50>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Spyder_logo.svg/1024px-Spyder_logo.svg.png" width=50 height=50>
-<img src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" width=50 height=50>
-<img src="https://iconape.com/wp-content/files/dw/348983/svg/348983.svg" width=50 height=50>
-<img src="https://pythonforfinance.net/wp-content/uploads/2019/07/Jupyter.jpg" width=50 height=50>
-<img src="https://colab.research.google.com/img/colab_favicon.ico" height=50 width=50>
-<img src="https://avatars.githubusercontent.com/u/45109972?s=400&v=4" width=50 height=50>
-<img src="https://image.flaticon.com/icons/png/512/732/732212.png" width=50 height=50>
-<img src="https://cdn0.iconfinder.com/data/icons/superuser-extension-light/512/675277-data_database_sql_query-512.png" width=50 height=50>
-<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png" width=50 height=50>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width=50 height=50>
-<img src="https://img.stackshare.io/service/5601/keras.png" width=50 height=50>
-
-<br>
