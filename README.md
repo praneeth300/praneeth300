@@ -1,6 +1,6 @@
 <h1 align="center" style="color: yellow"> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> Hi there, I'm <strong>Praneeth</strong> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
   </h1>
-<h3 align="center" >Associate Data Scientist @ Great learning</h3>
+<h3 align="center" >Data Engineer @ Great learning</h3>
 
 <img align="right" alt='Coder GIF' height=250 width=300 src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif" />
 
